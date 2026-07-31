@@ -1,4 +1,7 @@
 requests
 beautifulsoup4
+feedparser
 icalendar
 python-dateutil
+pytz
+lxml

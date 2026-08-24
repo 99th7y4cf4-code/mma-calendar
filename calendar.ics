@@ -134,25 +134,23 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nKhamzat Chimaev\n\nOrganisation : UFC\n
 LOCATION:Prudential Center\, Newark\, United States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥊 ONE Championship — Salahdine Parnasse
+SUMMARY:🥊 UFC — Salahdine Parnasse
 DTSTART:20260905T160000Z
 UID:mma-calendar-https-next-fight-com-en-event-ufc-fight-night-sept-5
-CATEGORIES:MMA\,ONE Championship
-DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : ONE
-  Championship\n\nÉvénement : UFC PARIS 2026 — Full Fight Card\, Date &
-  Time\n\nCalendrier :\nhttps://next-fight.com/en/event/ufc-fight-night-sep
- t-5
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : UFC
+ \n\nÉvénement : UFC PARIS 2026 — Full Fight Card\, Date & Time\n\nCale
+ ndrier :\nhttps://next-fight.com/en/event/ufc-fight-night-sept-5
 URL:https://next-fight.com/en/event/ufc-fight-night-sept-5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥊 ONE Championship — Merab Dvalishvili
+SUMMARY:🥊 UFC — Merab Dvalishvili
 DTSTART:20261024T000000
 UID:mma-calendar-https-next-fight-com-en-event-ufc-333-oct-24
-CATEGORIES:MMA\,ONE Championship
-DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : ONE 
- Championship\n\nÉvénement : UFC 333: Volkanovski vs. Evloev — Full Fig
- ht Card\, Date & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/ufc
- -333-oct-24
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : UFC
+ \n\nÉvénement : UFC 333: Volkanovski vs. Evloev — Full Fight Card\, Da
+ te & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/ufc-333-oct-24
 URL:https://next-fight.com/en/event/ufc-333-oct-24
 END:VEVENT
 END:VCALENDAR

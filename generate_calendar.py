@@ -553,63 +553,54 @@ def parse_iso_date(
     return None
 
 
-def detect_organization(
-    text
-):
+def detect_organization(text):
+    normalized = normalize(text)
 
-    normalized = normalize(
-        text
-    )
+    # UFC en priorité
+    if "ufc" in normalized:
+        return "UFC"
 
-    organizations = [
-        (
-            "ONE Championship",
-            [
-                "one championship",
-                "one friday fights",
-                "one fight night",
-                "one on prime",
-                "one championship"
-            ]
-        ),
-        (
-            "PFL",
-            [
-                "professional fighters league",
-                "pfl"
-            ]
-        ),
-        (
-            "KSW",
-            [
-                "ksw"
-            ]
-        ),
-        (
-            "ARES",
-            [
-                "ares",
-                "ares fighting championship"
-            ]
-        ),
-        (
-            "UFC",
-            [
-                "ufc"
-            ]
-        )
-    ]
+    # ONE Championship
+    if (
+        "one championship" in normalized
+        or "one friday fights" in normalized
+        or "one fight night" in normalized
+        or "one on prime" in normalized
+    ):
+        return "ONE Championship"
 
-    for name, keywords in organizations:
+    # PFL
+    if (
+        "professional fighters league" in normalized
+        or "pfl" in normalized
+    ):
+        return "PFL"
 
-        for keyword in keywords:
+    # KSW
+    if "ksw" in normalized:
+        return "KSW"
 
-            if normalize(keyword) in normalized:
+    # ARES
+    if (
+        "ares fighting championship" in normalized
+        or "ares fc" in normalized
+        or "ares" in normalized
+    ):
+        return "ARES"
 
-                return name
+    # ACA
+    if "aca" in normalized:
+        return "ACA"
+
+    # BRAVE
+    if "brave cf" in normalized:
+        return "BRAVE CF"
+
+    # RIZIN
+    if "rizin" in normalized:
+        return "RIZIN"
 
     return "MMA"
-
 
 def add_mma_events(
     calendar,

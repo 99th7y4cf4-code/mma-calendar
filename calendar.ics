@@ -1,137 +1,158 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Calendrier MMA Personnel//FR
-X-WR-CALDESC:Combats de mes combattants préférés
+PRODID:-//Calendrier Combattants Personnel//FR
+X-WR-CALDESC:Combats et compétitions de mes sportifs préférés
 X-WR-CALNAME:Mes Combats MMA & Judo
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🥊 UFC Fight Night: Hooker vs Parnasse
+SUMMARY:🥊 UFC — UFC Fight Night: Hooker vs Parnasse
 DTSTART:20260905T190000Z
-UID:mma-calendar-https://www.ufc.com/event/ufc-fight-night-september-05-20
- 26
-CATEGORIES:MMA
-DESCRIPTION:⭐ COMBATTANT SUIVI\n\nSalahdine Parnasse\n\nOrganisation : U
- FC\n\nCarte complète :\nMain Card\n--------------------\n• Dan Hooker (
- #10) vs. Salahdine Parnasse @155\n• Farès Ziam vs. Axel Sola @155\n• 
- Michael Venom Page vs. Nursulton Ruziboev @185\n• Morgan Charriere vs. F
- elipe Lima @145\n• Losene Keita vs. Muhammad Naimov @145\n\nPrelims (3 h
- rs before Main)\n--------------------\n• Mario Pinto vs. Ryan Spann @265
- \n• Kurtis Campbell vs. Trevor Peek @145\n• Oumar Sy vs. Modestas Buka
- uskas @205\n• Nathaniel Wood vs. Mairon Santos @145\n• Nora Cornolle (
- #13) vs. Klaudia Sygula @135\n• Matthieu Letho Duclos vs. Luis Felipe Di
- as @185\n• Delphine Benouaich vs. Sofia Montenegro @115\n\nhttps://www.u
- fc.com/event/ufc-fight-night-september-05-2026\n\nAccurate as of Aug 24\, 
- 4:26 PM EDT
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-fight-night-september-0
+ 5-2026
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : UFC
+ \n\nMain Card\n--------------------\n• Dan Hooker (#10) vs. Salahdine Pa
+ rnasse @155\n• Farès Ziam vs. Axel Sola @155\n• Michael Venom Page vs
+ . Nursulton Ruziboev @185\n• Morgan Charriere vs. Felipe Lima @145\n• 
+ Losene Keita vs. Muhammad Naimov @145\n\nPrelims (3 hrs before Main)\n----
+ ----------------\n• Mario Pinto vs. Ryan Spann @265\n• Kurtis Campbell
+  vs. Trevor Peek @145\n• Oumar Sy vs. Modestas Bukauskas @205\n• Natha
+ niel Wood vs. Mairon Santos @145\n• Nora Cornolle (#13) vs. Klaudia Sygu
+ la @135\n• Matthieu Letho Duclos vs. Luis Felipe Dias @185\n• Delphine
+  Benouaich vs. Sofia Montenegro @115\n\nhttps://www.ufc.com/event/ufc-figh
+ t-night-september-05-2026\n\nAccurate as of Aug 24\, 4:26 PM EDT
 LOCATION:Accor Arena\, Paris\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥊 UFC 333: Volkanovski vs Evloev
+SUMMARY:🥊 UFC — UFC 333: Volkanovski vs Evloev
 DTSTART:20261024T180000Z
-UID:mma-calendar-https://www.ufc.com/event/ufc-333
-CATEGORIES:MMA
-DESCRIPTION:⭐ COMBATTANT SUIVI\n\nMerab Dvalishvili\n\nOrganisation : UF
- C\n\nCarte complète :\n• Alexander Volkanovski (C) vs. Movsar Evloev (#
- 1) @145\n• Petr Yan (C) vs. Merab Dvalishvili (#1) @135\n• Arnold Alle
- n (#7) vs. Aaron Pico (#12) @145\n• Azamat Murzakanov (#8) vs. Dominick 
- Reyes (#10) @205\n• Lone’er Kavanagh (#6) vs. Ramazan Temirov (#10) @1
- 25\n• Nikita Krylov (#15) vs. Abdul Rakhman Yakhyaev @205\n• Alexander
-  Volkov (#2) vs. Rizvan Kuniev (#8) @265\n• Abus Magomedov vs. Cam Rowst
- on @185\n• Grant Dawson vs. Nurullo Aliev @155\n\nhttps://www.ufc.com/ev
- ent/ufc-333\n\nAccurate as of Aug 24\, 4:26 PM EDT
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-333
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : UFC
+ \n\n• Alexander Volkanovski (C) vs. Movsar Evloev (#1) @145\n• Petr Ya
+ n (C) vs. Merab Dvalishvili (#1) @135\n• Arnold Allen (#7) vs. Aaron Pic
+ o (#12) @145\n• Azamat Murzakanov (#8) vs. Dominick Reyes (#10) @205\n
+ • Lone’er Kavanagh (#6) vs. Ramazan Temirov (#10) @125\n• Nikita Kry
+ lov (#15) vs. Abdul Rakhman Yakhyaev @205\n• Alexander Volkov (#2) vs. R
+ izvan Kuniev (#8) @265\n• Abus Magomedov vs. Cam Rowston @185\n• Grant
+  Dawson vs. Nurullo Aliev @155\n\nhttps://www.ufc.com/event/ufc-333\n\nAcc
+ urate as of Aug 24\, 4:26 PM EDT
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥊 UFC 330: Makhachev vs Machado Garry
+SUMMARY:🥊 UFC — UFC 330: Makhachev vs Machado Garry
 DTSTART:20260816T010000Z
-UID:mma-calendar-https://www.ufc.com/event/ufc-330
-CATEGORIES:MMA
-DESCRIPTION:⭐ COMBATTANT SUIVI\n\nIslam Makhachev\n\nOrganisation : UFC
- \n\nCarte complète :\nMain Card\n--------------------\n• Islam Makhache
- v (C) vs. Ian Machado Garry (#1) @170\n• Mackenzie Dern (C) vs. Gillian 
- Robertson (#5) @115\n• Jalin Turner vs. Kauê Fernandes @155\n• Mansur
-  Abdul-Malik vs. Dustin Stoltzfus @185\n• Edson Barboza vs. Esteban Ribo
- vics @155\n\nPrelims (2 hrs before Main)\n--------------------\n• Chidi 
- Njokuani vs. Joel Álvarez @170\n• Charles Johnson vs. Eduardo Chapolin 
- @CW\n• Donte Johnson vs. Eric McConico @185\n• Vicente Luque vs. Trese
- an Gore @185\n\nEarly Prelims (3.5 hrs before Main)\n--------------------
- \n• Rafael Tobias vs. Lucas Fernando @205\n• Neil Magny vs. Ramiz Brah
- imaj @170\n• Jeremiah Wells vs. Myktybek Orolbai @170\n\nhttps://www.ufc
- .com/event/ufc-330\n\nAccurate as of Aug 24\, 4:26 PM EDT
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-330
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nIslam Makhachev\n\nOrganisation : UFC\n
+ \nMain Card\n--------------------\n• Islam Makhachev (C) vs. Ian Machado
+  Garry (#1) @170\n• Mackenzie Dern (C) vs. Gillian Robertson (#5) @115\n
+ • Jalin Turner vs. Kauê Fernandes @155\n• Mansur Abdul-Malik vs. Dust
+ in Stoltzfus @185\n• Edson Barboza vs. Esteban Ribovics @155\n\nPrelims 
+ (2 hrs before Main)\n--------------------\n• Chidi Njokuani vs. Joel Ál
+ varez @170\n• Charles Johnson vs. Eduardo Chapolin @CW\n• Donte Johnso
+ n vs. Eric McConico @185\n• Vicente Luque vs. Tresean Gore @185\n\nEarly
+  Prelims (3.5 hrs before Main)\n--------------------\n• Rafael Tobias vs
+ . Lucas Fernando @205\n• Neil Magny vs. Ramiz Brahimaj @170\n• Jeremia
+ h Wells vs. Myktybek Orolbai @170\n\nhttps://www.ufc.com/event/ufc-330\n\n
+ Accurate as of Aug 24\, 4:26 PM EDT
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥊 UFC Fight Night: Ankalaev vs Guskov
+SUMMARY:🥊 UFC — UFC Fight Night: Ankalaev vs Guskov
 DTSTART:20260725T160000Z
-UID:mma-calendar-https://www.ufc.com/event/ufc-fight-night-july-25-2026
-CATEGORIES:MMA
-DESCRIPTION:⭐ COMBATTANT SUIVI\n\nMagomed Ankalaev\n\nOrganisation : UFC
- \n\nCarte complète :\nMain Card\n--------------------\n• Magomed Ankala
- ev (#1) vs. Bogdan Guskov (#9) @205\n• Steve Erceg (#10) vs. Ramazan Tem
- irov @125\n• Magomed Zaynukov vs. Damian Rzepecki @155\n• Rizvan Kunie
- v (#8) vs. Tyrell Fortune (#9) @265\n• Abubakar Vagaev vs. Saygid Izagak
- hmaev @170\n• Ismael Bonfim vs. Axel Sola @155\n\nPrelims (3 hrs before 
- Main)\n--------------------\n• Valter Walker (#13) vs. Thomas Petersen @
- 265\n• Dustin Jacoby vs. Muhammad Saidov @205\n• Santiago Ponzinibbio 
- vs. Sam Patterson @170\n• Magomed Tuchalov vs. Brendson Ribeiro @205\n
- • Nurullo Aliev vs. Mike Davis @155\n• Cody Gibson vs. Abdul Hussein @
- 135\n\nhttps://www.ufc.com/event/ufc-fight-night-july-25-2026\n\nAccurate 
- as of Aug 24\, 4:26 PM EDT
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-fight-night-july-25-202
+ 6
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nMagomed Ankalaev\n\nOrganisation : UFC\n
+ \nMain Card\n--------------------\n• Magomed Ankalaev (#1) vs. Bogdan Gu
+ skov (#9) @205\n• Steve Erceg (#10) vs. Ramazan Temirov @125\n• Magome
+ d Zaynukov vs. Damian Rzepecki @155\n• Rizvan Kuniev (#8) vs. Tyrell For
+ tune (#9) @265\n• Abubakar Vagaev vs. Saygid Izagakhmaev @170\n• Ismae
+ l Bonfim vs. Axel Sola @155\n\nPrelims (3 hrs before Main)\n--------------
+ ------\n• Valter Walker (#13) vs. Thomas Petersen @265\n• Dustin Jacob
+ y vs. Muhammad Saidov @205\n• Santiago Ponzinibbio vs. Sam Patterson @17
+ 0\n• Magomed Tuchalov vs. Brendson Ribeiro @205\n• Nurullo Aliev vs. M
+ ike Davis @155\n• Cody Gibson vs. Abdul Hussein @135\n\nhttps://www.ufc.
+ com/event/ufc-fight-night-july-25-2026\n\nAccurate as of Aug 24\, 4:26 PM 
+ EDT
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥊 UFC 329: McGregor vs Holloway 2
+SUMMARY:🥊 UFC — UFC 329: McGregor vs Holloway 2
 DTSTART:20260712T010000Z
-UID:mma-calendar-https://www.ufc.com/event/ufc-329
-CATEGORIES:MMA
-DESCRIPTION:⭐ COMBATTANT SUIVI\n\nBenoit Saint Denis\n\nOrganisation : U
- FC\n\nCarte complète :\nMain Card\n--------------------\n• Conor McGreg
- or vs. Max Holloway @170\n• Benoît Saint Denis (#5) vs. Paddy Pimblett 
- (#6) @155\n• Cory Sandhagen (#4) vs. Mario Bautista (#7) @135\n• Brand
- on Royval (#4) vs. Lone’er Kavanagh (#6) @125\n• King Green vs. Terran
- ce McKinney @155\n\nPrelims (2 hrs before Main)\n--------------------\n•
-  Nikita Krylov (#12) vs. Robert Whittaker @205\n• Gable Steveson vs. Eli
- sha Ellison @265\n• Cody Garbrandt vs. Adrian Yanez @135\n• Luke Riley
-  vs. Kai Kamaka III @145\n\nEarly Prelims (4 hrs before Main)\n-----------
- ---------\n• Tracy Cortez (#8) vs. Wang Cong (#12) @125\n• Damian Pina
- s vs. Cesar Almeida @185\n• Farid Basharat (#15) vs. John Garza @135\n
- • Ryan Gandra vs. Zachary Reese @185\n• Alessandro Costa vs. Cody Durd
- en @125\n\nhttps://www.ufc.com/event/ufc-329\n\nAccurate as of Aug 24\, 4:
- 26 PM EDT
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-329
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nBenoit Saint Denis\n\nOrganisation : UFC
+ \n\nMain Card\n--------------------\n• Conor McGregor vs. Max Holloway @
+ 170\n• Benoît Saint Denis (#5) vs. Paddy Pimblett (#6) @155\n• Cory S
+ andhagen (#4) vs. Mario Bautista (#7) @135\n• Brandon Royval (#4) vs. Lo
+ ne’er Kavanagh (#6) @125\n• King Green vs. Terrance McKinney @155\n\nP
+ relims (2 hrs before Main)\n--------------------\n• Nikita Krylov (#12) 
+ vs. Robert Whittaker @205\n• Gable Steveson vs. Elisha Ellison @265\n•
+  Cody Garbrandt vs. Adrian Yanez @135\n• Luke Riley vs. Kai Kamaka III @
+ 145\n\nEarly Prelims (4 hrs before Main)\n--------------------\n• Tracy 
+ Cortez (#8) vs. Wang Cong (#12) @125\n• Damian Pinas vs. Cesar Almeida @
+ 185\n• Farid Basharat (#15) vs. John Garza @135\n• Ryan Gandra vs. Zac
+ hary Reese @185\n• Alessandro Costa vs. Cody Durden @125\n\nhttps://www.
+ ufc.com/event/ufc-329\n\nAccurate as of Aug 24\, 4:26 PM EDT
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥊 UFC Freedom 250: Topuria vs Gaethje
+SUMMARY:🥊 UFC — UFC Freedom 250: Topuria vs Gaethje
 DTSTART:20260615T000000Z
-UID:mma-calendar-https://www.ufc.com/event/ufc-freedom-250
-CATEGORIES:MMA
-DESCRIPTION:⭐ COMBATTANT SUIVI\n\nIlia Topuria\n\nOrganisation : UFC\n\n
- Carte complète :\nMain Card\n--------------------\n• Ilia Topuria (C) v
- s. Justin Gaethje (C) @155\n• Alex Pereira vs. Ciryl Gane (#1) @265\n•
-  Sean O'Malley (#3) vs. Aiemann Zahabi (#6) @135\n• Josh Hokit (#5) vs. 
- Derrick Lewis (#9) @265\n• Mauricio Ruffy (#9) vs. Michael Chandler (#13
- ) @155\n• Bo Nickal vs. Kyle Daukaus @185\n• Diego Lopes (#2) vs. Stev
- e Garcia (#9) @145\n\nhttps://www.ufc.com/event/ufc-freedom-250\n\nAccurat
- e as of Aug 24\, 4:26 PM EDT
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-freedom-250
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nIlia Topuria\n\nOrganisation : UFC\n\nMa
+ in Card\n--------------------\n• Ilia Topuria (C) vs. Justin Gaethje (C)
+  @155\n• Alex Pereira vs. Ciryl Gane (#1) @265\n• Sean O'Malley (#3) v
+ s. Aiemann Zahabi (#6) @135\n• Josh Hokit (#5) vs. Derrick Lewis (#9) @2
+ 65\n• Mauricio Ruffy (#9) vs. Michael Chandler (#13) @155\n• Bo Nickal
+  vs. Kyle Daukaus @185\n• Diego Lopes (#2) vs. Steve Garcia (#9) @145\n
+ \nhttps://www.ufc.com/event/ufc-freedom-250\n\nAccurate as of Aug 24\, 4:2
+ 6 PM EDT
 LOCATION:The White House\, Washington\, United States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥊 UFC 328: Chimaev vs Strickland
+SUMMARY:🥊 UFC — UFC 328: Chimaev vs Strickland
 DTSTART:20260510T010000Z
-UID:mma-calendar-https://www.ufc.com/event/ufc-328
-CATEGORIES:MMA
-DESCRIPTION:⭐ COMBATTANT SUIVI\n\nKhamzat Chimaev\n\nOrganisation : UFC
- \n\nCarte complète :\nMain Card\n--------------------\n• Khamzat Chimae
- v (C) vs. Sean Strickland (#3) @185\n• Joshua Van (C) vs. Tatsuro Taira 
- (#3) @125\n• Alexander Volkov (#2) vs. Waldo Cortes Acosta (#4) @265\n
- • Sean Brady (#6) vs. Joaquin Buckley (#9) @170\n• King Green vs. Jere
- my Stephens @155\n\nPrelims (2 hrs before Main)\n--------------------\n•
-  Ateba Gautier vs. Ozzy Diaz @185\n• Joel Álvarez vs. Yaroslav Amosov (
- #14) @170\n• Grant Dawson vs. Mateusz Rębecki @155\n• Jim Miller vs. 
- Jared Gordon @155\n\nEarly Prelims (4 hrs before Main)\n------------------
- --\n• Roman Kopylov vs. Marco Tulio @185\n• Pat Sabatini vs. William G
- omis @145\n• Baisangur Susurkaev vs. Djorden Santos @185\n• Clayton Ca
- rpenter vs. Jose Ochoa @125\n\nhttps://www.ufc.com/event/ufc-328\n\nAccura
- te as of Aug 24\, 4:26 PM EDT
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-328
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nKhamzat Chimaev\n\nOrganisation : UFC\n
+ \nMain Card\n--------------------\n• Khamzat Chimaev (C) vs. Sean Strick
+ land (#3) @185\n• Joshua Van (C) vs. Tatsuro Taira (#3) @125\n• Alexan
+ der Volkov (#2) vs. Waldo Cortes Acosta (#4) @265\n• Sean Brady (#6) vs.
+  Joaquin Buckley (#9) @170\n• King Green vs. Jeremy Stephens @155\n\nPre
+ lims (2 hrs before Main)\n--------------------\n• Ateba Gautier vs. Ozzy
+  Diaz @185\n• Joel Álvarez vs. Yaroslav Amosov (#14) @170\n• Grant Da
+ wson vs. Mateusz Rębecki @155\n• Jim Miller vs. Jared Gordon @155\n\nEa
+ rly Prelims (4 hrs before Main)\n--------------------\n• Roman Kopylov v
+ s. Marco Tulio @185\n• Pat Sabatini vs. William Gomis @145\n• Baisangu
+ r Susurkaev vs. Djorden Santos @185\n• Clayton Carpenter vs. Jose Ochoa 
+ @125\n\nhttps://www.ufc.com/event/ufc-328\n\nAccurate as of Aug 24\, 4:26 
+ PM EDT
 LOCATION:Prudential Center\, Newark\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 ONE Championship — Salahdine Parnasse
+DTSTART:20260905T160000Z
+UID:mma-calendar-https-next-fight-com-en-event-ufc-fight-night-sept-5
+CATEGORIES:MMA\,ONE Championship
+DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : ONE
+  Championship\n\nÉvénement : UFC PARIS 2026 — Full Fight Card\, Date &
+  Time\n\nCalendrier :\nhttps://next-fight.com/en/event/ufc-fight-night-sep
+ t-5
+URL:https://next-fight.com/en/event/ufc-fight-night-sept-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 ONE Championship — Merab Dvalishvili
+DTSTART:20261024T000000
+UID:mma-calendar-https-next-fight-com-en-event-ufc-333-oct-24
+CATEGORIES:MMA\,ONE Championship
+DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : ONE 
+ Championship\n\nÉvénement : UFC 333: Volkanovski vs. Evloev — Full Fig
+ ht Card\, Date & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/ufc
+ -333-oct-24
+URL:https://next-fight.com/en/event/ufc-333-oct-24
 END:VEVENT
 END:VCALENDAR

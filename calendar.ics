@@ -1,158 +1,763 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Calendrier Combattants Personnel//FR
-X-WR-CALDESC:Combats et compétitions de mes sportifs préférés
-X-WR-CALNAME:Mes Combats MMA & Judo
-X-WR-TIMEZONE:Europe/Paris
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC Fight Night: Hooker vs Parnasse
-DTSTART:20260905T190000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-fight-night-september-0
- 5-2026
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : UFC
- \n\nMain Card\n--------------------\n• Dan Hooker (#10) vs. Salahdine Pa
- rnasse @155\n• Farès Ziam vs. Axel Sola @155\n• Michael Venom Page vs
- . Nursulton Ruziboev @185\n• Morgan Charriere vs. Felipe Lima @145\n• 
- Losene Keita vs. Muhammad Naimov @145\n\nPrelims (3 hrs before Main)\n----
- ----------------\n• Mario Pinto vs. Ryan Spann @265\n• Kurtis Campbell
-  vs. Trevor Peek @145\n• Oumar Sy vs. Modestas Bukauskas @205\n• Natha
- niel Wood vs. Mairon Santos @145\n• Nora Cornolle (#13) vs. Klaudia Sygu
- la @135\n• Matthieu Letho Duclos vs. Luis Felipe Dias @185\n• Delphine
-  Benouaich vs. Sofia Montenegro @115\n\nhttps://www.ufc.com/event/ufc-figh
- t-night-september-05-2026\n\nAccurate as of Aug 24\, 4:26 PM EDT
-LOCATION:Accor Arena\, Paris\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 333: Volkanovski vs Evloev
-DTSTART:20261024T180000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-333
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : UFC
- \n\n• Alexander Volkanovski (C) vs. Movsar Evloev (#1) @145\n• Petr Ya
- n (C) vs. Merab Dvalishvili (#1) @135\n• Arnold Allen (#7) vs. Aaron Pic
- o (#12) @145\n• Azamat Murzakanov (#8) vs. Dominick Reyes (#10) @205\n
- • Lone’er Kavanagh (#6) vs. Ramazan Temirov (#10) @125\n• Nikita Kry
- lov (#15) vs. Abdul Rakhman Yakhyaev @205\n• Alexander Volkov (#2) vs. R
- izvan Kuniev (#8) @265\n• Abus Magomedov vs. Cam Rowston @185\n• Grant
-  Dawson vs. Nurullo Aliev @155\n\nhttps://www.ufc.com/event/ufc-333\n\nAcc
- urate as of Aug 24\, 4:26 PM EDT
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 330: Makhachev vs Machado Garry
-DTSTART:20260816T010000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-330
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nIslam Makhachev\n\nOrganisation : UFC\n
- \nMain Card\n--------------------\n• Islam Makhachev (C) vs. Ian Machado
-  Garry (#1) @170\n• Mackenzie Dern (C) vs. Gillian Robertson (#5) @115\n
- • Jalin Turner vs. Kauê Fernandes @155\n• Mansur Abdul-Malik vs. Dust
- in Stoltzfus @185\n• Edson Barboza vs. Esteban Ribovics @155\n\nPrelims 
- (2 hrs before Main)\n--------------------\n• Chidi Njokuani vs. Joel Ál
- varez @170\n• Charles Johnson vs. Eduardo Chapolin @CW\n• Donte Johnso
- n vs. Eric McConico @185\n• Vicente Luque vs. Tresean Gore @185\n\nEarly
-  Prelims (3.5 hrs before Main)\n--------------------\n• Rafael Tobias vs
- . Lucas Fernando @205\n• Neil Magny vs. Ramiz Brahimaj @170\n• Jeremia
- h Wells vs. Myktybek Orolbai @170\n\nhttps://www.ufc.com/event/ufc-330\n\n
- Accurate as of Aug 24\, 4:26 PM EDT
-LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC Fight Night: Ankalaev vs Guskov
-DTSTART:20260725T160000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-fight-night-july-25-202
- 6
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nMagomed Ankalaev\n\nOrganisation : UFC\n
- \nMain Card\n--------------------\n• Magomed Ankalaev (#1) vs. Bogdan Gu
- skov (#9) @205\n• Steve Erceg (#10) vs. Ramazan Temirov @125\n• Magome
- d Zaynukov vs. Damian Rzepecki @155\n• Rizvan Kuniev (#8) vs. Tyrell For
- tune (#9) @265\n• Abubakar Vagaev vs. Saygid Izagakhmaev @170\n• Ismae
- l Bonfim vs. Axel Sola @155\n\nPrelims (3 hrs before Main)\n--------------
- ------\n• Valter Walker (#13) vs. Thomas Petersen @265\n• Dustin Jacob
- y vs. Muhammad Saidov @205\n• Santiago Ponzinibbio vs. Sam Patterson @17
- 0\n• Magomed Tuchalov vs. Brendson Ribeiro @205\n• Nurullo Aliev vs. M
- ike Davis @155\n• Cody Gibson vs. Abdul Hussein @135\n\nhttps://www.ufc.
- com/event/ufc-fight-night-july-25-2026\n\nAccurate as of Aug 24\, 4:26 PM 
- EDT
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 329: McGregor vs Holloway 2
-DTSTART:20260712T010000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-329
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nBenoit Saint Denis\n\nOrganisation : UFC
- \n\nMain Card\n--------------------\n• Conor McGregor vs. Max Holloway @
- 170\n• Benoît Saint Denis (#5) vs. Paddy Pimblett (#6) @155\n• Cory S
- andhagen (#4) vs. Mario Bautista (#7) @135\n• Brandon Royval (#4) vs. Lo
- ne’er Kavanagh (#6) @125\n• King Green vs. Terrance McKinney @155\n\nP
- relims (2 hrs before Main)\n--------------------\n• Nikita Krylov (#12) 
- vs. Robert Whittaker @205\n• Gable Steveson vs. Elisha Ellison @265\n•
-  Cody Garbrandt vs. Adrian Yanez @135\n• Luke Riley vs. Kai Kamaka III @
- 145\n\nEarly Prelims (4 hrs before Main)\n--------------------\n• Tracy 
- Cortez (#8) vs. Wang Cong (#12) @125\n• Damian Pinas vs. Cesar Almeida @
- 185\n• Farid Basharat (#15) vs. John Garza @135\n• Ryan Gandra vs. Zac
- hary Reese @185\n• Alessandro Costa vs. Cody Durden @125\n\nhttps://www.
- ufc.com/event/ufc-329\n\nAccurate as of Aug 24\, 4:26 PM EDT
-LOCATION:T-Mobile Arena\, Las Vegas\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC Freedom 250: Topuria vs Gaethje
-DTSTART:20260615T000000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-freedom-250
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nIlia Topuria\n\nOrganisation : UFC\n\nMa
- in Card\n--------------------\n• Ilia Topuria (C) vs. Justin Gaethje (C)
-  @155\n• Alex Pereira vs. Ciryl Gane (#1) @265\n• Sean O'Malley (#3) v
- s. Aiemann Zahabi (#6) @135\n• Josh Hokit (#5) vs. Derrick Lewis (#9) @2
- 65\n• Mauricio Ruffy (#9) vs. Michael Chandler (#13) @155\n• Bo Nickal
-  vs. Kyle Daukaus @185\n• Diego Lopes (#2) vs. Steve Garcia (#9) @145\n
- \nhttps://www.ufc.com/event/ufc-freedom-250\n\nAccurate as of Aug 24\, 4:2
- 6 PM EDT
-LOCATION:The White House\, Washington\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 328: Chimaev vs Strickland
-DTSTART:20260510T010000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-328
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nKhamzat Chimaev\n\nOrganisation : UFC\n
- \nMain Card\n--------------------\n• Khamzat Chimaev (C) vs. Sean Strick
- land (#3) @185\n• Joshua Van (C) vs. Tatsuro Taira (#3) @125\n• Alexan
- der Volkov (#2) vs. Waldo Cortes Acosta (#4) @265\n• Sean Brady (#6) vs.
-  Joaquin Buckley (#9) @170\n• King Green vs. Jeremy Stephens @155\n\nPre
- lims (2 hrs before Main)\n--------------------\n• Ateba Gautier vs. Ozzy
-  Diaz @185\n• Joel Álvarez vs. Yaroslav Amosov (#14) @170\n• Grant Da
- wson vs. Mateusz Rębecki @155\n• Jim Miller vs. Jared Gordon @155\n\nEa
- rly Prelims (4 hrs before Main)\n--------------------\n• Roman Kopylov v
- s. Marco Tulio @185\n• Pat Sabatini vs. William Gomis @145\n• Baisangu
- r Susurkaev vs. Djorden Santos @185\n• Clayton Carpenter vs. Jose Ochoa 
- @125\n\nhttps://www.ufc.com/event/ufc-328\n\nAccurate as of Aug 24\, 4:26 
- PM EDT
-LOCATION:Prudential Center\, Newark\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 ONE Championship — Salahdine Parnasse
-DTSTART:20260905T160000Z
-UID:mma-calendar-https-next-fight-com-en-event-ufc-fight-night-sept-5
-CATEGORIES:MMA\,ONE Championship
-DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : ONE
-  Championship\n\nÉvénement : UFC PARIS 2026 — Full Fight Card\, Date &
-  Time\n\nCalendrier :\nhttps://next-fight.com/en/event/ufc-fight-night-sep
- t-5
-URL:https://next-fight.com/en/event/ufc-fight-night-sept-5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 ONE Championship — Merab Dvalishvili
-DTSTART:20261024T000000
-UID:mma-calendar-https-next-fight-com-en-event-ufc-333-oct-24
-CATEGORIES:MMA\,ONE Championship
-DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : ONE 
- Championship\n\nÉvénement : UFC 333: Volkanovski vs. Evloev — Full Fig
- ht Card\, Date & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/ufc
- -333-oct-24
-URL:https://next-fight.com/en/event/ufc-333-oct-24
-END:VEVENT
-END:VCALENDAR
+import json
+import re
+import unicodedata
+from datetime import datetime, date
+from urllib.parse import quote
+
+import requests
+from bs4 import BeautifulSoup
+from icalendar import Calendar, Event
+
+
+# ============================================================
+# CONFIGURATION
+# ============================================================
+
+FIGHTERS_FILE = "combattants.json"
+OUTPUT_FILE = "calendar.ics"
+
+NEXT_FIGHT_URL = "https://next-fight.com/en/fighter/{}"
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/139 Safari/537.36"
+    )
+}
+
+# Les organisations que nous voulons suivre.
+ALLOWED_ORGANIZATIONS = {
+    "ufc": "UFC",
+    "pfl": "PFL",
+    "one championship": "ONE Championship",
+    "one fc": "ONE Championship",
+    "ksw": "KSW",
+    "ares": "ARES",
+    "aca": "ACA",
+    "brave cf": "BRAVE CF",
+    "rizin": "RIZIN",
+    "bellator": "Bellator",
+    "pfl mena": "PFL",
+    "pfl africa": "PFL",
+}
+
+# Alias utiles pour certains noms.
+FIGHTER_ALIASES = {
+    "Baysangur “Baki” Chamsoudinov": [
+        "baysangur chamsoudinov",
+        "baki chamsoudinov",
+    ],
+    "Benoît Saint Denis": [
+        "benoit saint denis",
+        "benn saint denis",
+    ],
+}
+
+
+# ============================================================
+# OUTILS
+# ============================================================
+
+def normalize(text):
+    if not text:
+        return ""
+
+    text = unicodedata.normalize("NFD", text)
+
+    text = "".join(
+        char
+        for char in text
+        if unicodedata.category(char) != "Mn"
+    )
+
+    text = text.lower()
+
+    text = re.sub(
+        r"[^a-z0-9]+",
+        " ",
+        text
+    )
+
+    return " ".join(text.split())
+
+
+def slugify(name):
+    """
+    Transforme un nom en slug Next-Fight.
+    """
+
+    normalized = normalize(name)
+
+    return normalized.replace(" ", "-")
+
+
+def load_fighters():
+    with open(
+        FIGHTERS_FILE,
+        "r",
+        encoding="utf-8"
+    ) as file:
+        data = json.load(file)
+
+    fighters = []
+
+    for category in ("mma", "judo"):
+        for fighter in data.get(category, []):
+            if fighter not in fighters:
+                fighters.append(fighter)
+
+    return fighters
+
+
+def get_aliases(fighter):
+    aliases = [fighter]
+
+    aliases.extend(
+        FIGHTER_ALIASES.get(
+            fighter,
+            []
+        )
+    )
+
+    return aliases
+
+
+def fighter_in_text(text, fighter):
+    normalized_text = normalize(text)
+
+    for alias in get_aliases(fighter):
+        if normalize(alias) in normalized_text:
+            return True
+
+    return False
+
+
+def download(url):
+    response = requests.get(
+        url,
+        headers=HEADERS,
+        timeout=30
+    )
+
+    response.raise_for_status()
+
+    return response
+
+
+def parse_date(text):
+    if not text:
+        return None
+
+    text = text.strip()
+
+    formats = [
+        "%B %d, %Y",
+        "%b %d, %Y",
+        "%d %B %Y",
+        "%d %b %Y",
+        "%Y-%m-%d",
+    ]
+
+    for fmt in formats:
+        try:
+            return datetime.strptime(
+                text,
+                fmt
+            )
+        except ValueError:
+            pass
+
+    # Recherche d'une date dans un texte plus long.
+    patterns = [
+        r"(January|February|March|April|May|June|July|August|"
+        r"September|October|November|December)\s+"
+        r"(\d{1,2}),\s+(\d{4})",
+
+        r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+"
+        r"(\d{1,2}),\s+(\d{4})",
+    ]
+
+    for pattern in patterns:
+        match = re.search(
+            pattern,
+            text,
+            re.IGNORECASE
+        )
+
+        if match:
+            try:
+                return datetime.strptime(
+                    match.group(0),
+                    "%B %d, %Y"
+                )
+            except ValueError:
+                try:
+                    return datetime.strptime(
+                        match.group(0),
+                        "%b %d, %Y"
+                    )
+                except ValueError:
+                    pass
+
+    return None
+
+
+def detect_organization(text):
+    normalized = normalize(text)
+
+    # On teste les organisations les plus précises
+    # avant les noms génériques.
+    tests = [
+        ("one championship", "ONE Championship"),
+        ("one fc", "ONE Championship"),
+        ("pfl africa", "PFL"),
+        ("pfl mena", "PFL"),
+        ("pfl", "PFL"),
+        ("ufc", "UFC"),
+        ("ksw", "KSW"),
+        ("ares", "ARES"),
+        ("aca", "ACA"),
+        ("brave cf", "BRAVE CF"),
+        ("rizin", "RIZIN"),
+        ("bellator", "Bellator"),
+    ]
+
+    for keyword, organization in tests:
+        if normalize(keyword) in normalized:
+            return organization
+
+    return None
+
+
+# ============================================================
+# CALENDRIER
+# ============================================================
+
+def create_calendar():
+
+    calendar = Calendar()
+
+    calendar.add(
+        "prodid",
+        "-//Mon Calendrier MMA et Judo//FR"
+    )
+
+    calendar.add(
+        "version",
+        "2.0"
+    )
+
+    calendar.add(
+        "X-WR-CALNAME",
+        "Mes Combats MMA & Judo"
+    )
+
+    calendar.add(
+        "X-WR-CALDESC",
+        "Combats et compétitions de mes sportifs préférés"
+    )
+
+    calendar.add(
+        "X-WR-TIMEZONE",
+        "Europe/Paris"
+    )
+
+    return calendar
+
+
+# ============================================================
+# AJOUT D'UN COMBAT
+# ============================================================
+
+def add_fight(
+    calendar,
+    fighter,
+    opponent,
+    organization,
+    event_name,
+    event_date,
+    url,
+    uid_suffix
+):
+
+    event = Event()
+
+    event.add(
+        "uid",
+        "mma-calendar-" + uid_suffix
+    )
+
+    event.add(
+        "summary",
+        f"🥊 {organization} — {fighter} vs {opponent}"
+    )
+
+    event.add(
+        "dtstart",
+        event_date
+    )
+
+    event.add(
+        "description",
+        "\n".join(
+            [
+                "⭐ COMBATTANT SUIVI",
+                fighter,
+                "",
+                f"🥊 Adversaire : {opponent}",
+                "",
+                f"Organisation : {organization}",
+                "",
+                f"Événement : {event_name}",
+                "",
+                "Source :",
+                url,
+            ]
+        )
+    )
+
+    event.add(
+        "url",
+        url
+    )
+
+    event.add(
+        "categories",
+        f"MMA,{organization}"
+    )
+
+    calendar.add_component(
+        event
+    )
+
+
+# ============================================================
+# RECHERCHE DU PROCHAIN COMBAT D'UN COMBATTANT
+# ============================================================
+
+def find_next_fight(
+    fighter
+):
+
+    slug = slugify(fighter)
+
+    url = NEXT_FIGHT_URL.format(
+        quote(slug)
+    )
+
+    try:
+        response = download(
+            url
+        )
+    except Exception as error:
+        print(
+            f"⚠️ {fighter} : impossible d'accéder à la fiche"
+        )
+        print(error)
+        return None
+
+    soup = BeautifulSoup(
+        response.text,
+        "html.parser"
+    )
+
+    text = soup.get_text(
+        " ",
+        strip=True
+    )
+
+    if not fighter_in_text(
+        text,
+        fighter
+    ):
+        return None
+
+    # --------------------------------------------------------
+    # ORGANISATION
+    # --------------------------------------------------------
+
+    organization = detect_organization(
+        text
+    )
+
+    if not organization:
+        return None
+
+    # --------------------------------------------------------
+    # DATE
+    # --------------------------------------------------------
+
+    # On cherche d'abord autour de la zone
+    # "Next Fight".
+    next_fight_text = text
+
+    marker = re.search(
+        r"Next Fight(.*?)(?:Tech sheet|Key Stats|Last fight)",
+        text,
+        re.IGNORECASE
+    )
+
+    if marker:
+        next_fight_text = marker.group(1)
+
+    event_date = parse_date(
+        next_fight_text
+    )
+
+    if not event_date:
+        return None
+
+    if event_date.date() < date.today():
+        return None
+
+    # --------------------------------------------------------
+    # ÉVÉNEMENT / ADVERSAIRE
+    # --------------------------------------------------------
+
+    event_name = "Combat annoncé"
+
+    opponent = "Adversaire à confirmer"
+
+    # Tentative de récupération du titre
+    title = soup.title
+
+    if title:
+        title_text = title.get_text(
+            " ",
+            strip=True
+        )
+
+        if title_text:
+            event_name = title_text
+
+    # Recherche de "vs"
+    vs_match = re.search(
+        r"([A-Za-zÀ-ÿ'’.\- ]+)"
+        r"\s+(?:vs\.?|versus)"
+        r"\s+"
+        r"([A-Za-zÀ-ÿ'’.\- ]+)",
+        next_fight_text,
+        re.IGNORECASE
+    )
+
+    if vs_match:
+        first = vs_match.group(1).strip()
+        second = vs_match.group(2).strip()
+
+        # Si le premier nom est le combattant suivi,
+        # l'autre est l'adversaire.
+        if normalize(fighter) in normalize(first):
+            opponent = second
+        else:
+            opponent = first
+
+    return {
+        "fighter": fighter,
+        "opponent": opponent,
+        "organization": organization,
+        "event_name": event_name,
+        "date": event_date,
+        "url": url,
+    }
+
+
+# ============================================================
+# JUDO
+# ============================================================
+
+IJF_ATHLETES = {
+    "Teddy Riner": "https://www.ijf.org/athlete/385",
+    "Joan-Benjamin Gaba": "https://www.ijf.org/athlete/46709",
+}
+
+
+def add_judo(
+    calendar,
+    fighters
+):
+
+    count = 0
+
+    print()
+    print("==============================")
+    print("🥋 JUDO")
+    print("==============================")
+
+    for fighter, url in IJF_ATHLETES.items():
+
+        if fighter not in fighters:
+            continue
+
+        try:
+            response = download(
+                url
+            )
+        except Exception as error:
+            print(
+                f"⚠️ {fighter} : erreur IJF"
+            )
+            print(error)
+            continue
+
+        soup = BeautifulSoup(
+            response.text,
+            "html.parser"
+        )
+
+        text = soup.get_text(
+            " ",
+            strip=True
+        )
+
+        # On ne crée pas de faux événement :
+        # si aucune compétition future identifiable
+        # n'est trouvée, on ne met rien.
+        dates = re.findall(
+            r"(?:January|February|March|April|May|June|July|"
+            r"August|September|October|November|December)"
+            r"\s+\d{1,2},\s+\d{4}",
+            text,
+            re.IGNORECASE
+        )
+
+        seen = set()
+
+        for date_text in dates:
+
+            competition_date = parse_date(
+                date_text
+            )
+
+            if not competition_date:
+                continue
+
+            if competition_date.date() < date.today():
+                continue
+
+            # Cherche le texte autour de la date.
+            position = text.find(
+                date_text
+            )
+
+            start = max(
+                0,
+                position - 180
+            )
+
+            end = min(
+                len(text),
+                position + 180
+            )
+
+            competition_name = text[
+                start:end
+            ].strip()
+
+            key = (
+                fighter,
+                competition_date.date(),
+                competition_name
+            )
+
+            if key in seen:
+                continue
+
+            seen.add(
+                key
+            )
+
+            event = Event()
+
+            event.add(
+                "uid",
+                (
+                    "judo-calendar-"
+                    + slugify(fighter)
+                    + "-"
+                    + competition_date.strftime(
+                        "%Y%m%d"
+                    )
+                )
+            )
+
+            event.add(
+                "summary",
+                f"🥋 Judo — {fighter}"
+            )
+
+            event.add(
+                "dtstart",
+                competition_date
+            )
+
+            event.add(
+                "description",
+                "\n".join(
+                    [
+                        "⭐ JUDOKA SUIVI",
+                        fighter,
+                        "",
+                        "Compétition internationale",
+                        "",
+                        "Source officielle IJF :",
+                        url,
+                    ]
+                )
+            )
+
+            event.add(
+                "url",
+                url
+            )
+
+            event.add(
+                "categories",
+                "Judo,IJF"
+            )
+
+            calendar.add_component(
+                event
+            )
+
+            count += 1
+
+            print(
+                "✓",
+                fighter,
+                competition_date.date()
+            )
+
+    return count
+
+
+# ============================================================
+# PROGRAMME PRINCIPAL
+# ============================================================
+
+def main():
+
+    print()
+    print("==========================================")
+    print("   CALENDRIER MMA + JUDO")
+    print("==========================================")
+
+    fighters = load_fighters()
+
+    print()
+    print("Combattants surveillés :")
+
+    for fighter in fighters:
+        print(
+            " -",
+            fighter
+        )
+
+    calendar = create_calendar()
+
+    mma_count = 0
+
+    # --------------------------------------------------------
+    # MMA
+    # --------------------------------------------------------
+
+    print()
+    print("==============================")
+    print("🥊 MMA")
+    print("==============================")
+
+    for fighter in fighters:
+
+        # Les deux judokas ne sont pas recherchés
+        # comme combattants MMA.
+        if fighter in (
+            "Teddy Riner",
+            "Joan-Benjamin Gaba"
+        ):
+            continue
+
+        print()
+        print(
+            "Recherche :",
+            fighter
+        )
+
+        result = find_next_fight(
+            fighter
+        )
+
+        if not result:
+            print(
+                "  Aucun combat futur détecté."
+            )
+            continue
+
+        add_fight(
+            calendar=calendar,
+            fighter=result["fighter"],
+            opponent=result["opponent"],
+            organization=result["organization"],
+            event_name=result["event_name"],
+            event_date=result["date"],
+            url=result["url"],
+            uid_suffix=(
+                slugify(result["fighter"])
+                + "-"
+                + result["date"].strftime(
+                    "%Y%m%d"
+                )
+            )
+        )
+
+        mma_count += 1
+
+        print(
+            "  ✓",
+            result["organization"],
+            "-",
+            result["date"].date()
+        )
+
+    # --------------------------------------------------------
+    # JUDO
+    # --------------------------------------------------------
+
+    judo_count = add_judo(
+        calendar,
+        fighters
+    )
+
+    # --------------------------------------------------------
+    # SAUVEGARDE
+    # --------------------------------------------------------
+
+    with open(
+        OUTPUT_FILE,
+        "wb"
+    ) as file:
+
+        file.write(
+            calendar.to_ical()
+        )
+
+    print()
+    print("==========================================")
+    print("              TERMINÉ")
+    print("==========================================")
+    print(
+        f"MMA : {mma_count}"
+    )
+    print(
+        f"Judo : {judo_count}"
+    )
+    print(
+        f"TOTAL : {mma_count + judo_count}"
+    )
+    print()
+    print(
+        "calendar.ics créé avec succès."
+    )
+
+
+if __name__ == "__main__":
+    main()

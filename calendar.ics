@@ -5,6 +5,22 @@ X-WR-CALDESC:Combats et compétitions de mes sportifs préférés
 X-WR-CALNAME:Mes Combats MMA & Judo
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🥊 UFC — UFC 333: Volkanovski vs Evloev
+DTSTART:20261024T180000Z
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-333
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : UFC
+ \n\n• Alexander Volkanovski (C) vs. Movsar Evloev (#1) @145\n• Petr Ya
+ n (C) vs. Merab Dvalishvili (#1) @135\n• Arnold Allen (#7) vs. Aaron Pic
+ o (#12) @145\n• Azamat Murzakanov (#8) vs. Dominick Reyes (#10) @205\n
+ • Lone’er Kavanagh (#6) vs. Ramazan Temirov (#10) @125\n• Nikita Kry
+ lov (#15) vs. Abdul Rakhman Yakhyaev @205\n• Alexander Volkov (#2) vs. R
+ izvan Kuniev (#7) @265\n• Abus Magomedov (#14) vs. Cam Rowston @185\n•
+  Grant Dawson vs. Nurullo Aliev @155\n\nhttps://www.ufc.com/event/ufc-333
+ \n\nAccurate as of Sep 6\, 4:20 AM EDT
+LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🥊 UFC — UFC Fight Night: Hooker vs Parnasse
 DTSTART:20260905T190000Z
 UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-fight-night-september-0
@@ -21,25 +37,9 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : UFC
  Andrusca @145\n• Michael Aljarouj vs. Fabia Sintes @125\n• Nora Cornol
  le (#13) vs. Klaudia Syguła @135\n• Matthieu Duclos vs. Luis Felipe Dia
  s @185\n• Delphine Benouaich vs. Sofia Montenegro @115\n\nhttps://www.uf
- c.com/event/ufc-fight-night-september-05-2026\n\nAccurate as of Sep 5\, 4:
- 01 AM EDT
+ c.com/event/ufc-fight-night-september-05-2026\n\nAccurate as of Sep 6\, 4:
+ 20 AM EDT
 LOCATION:Accor Arena\, Paris\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 333: Volkanovski vs Evloev
-DTSTART:20261024T180000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-333
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : UFC
- \n\n• Alexander Volkanovski (C) vs. Movsar Evloev (#1) @145\n• Petr Ya
- n (C) vs. Merab Dvalishvili (#1) @135\n• Arnold Allen (#7) vs. Aaron Pic
- o (#12) @145\n• Azamat Murzakanov (#8) vs. Dominick Reyes (#10) @205\n
- • Lone’er Kavanagh (#6) vs. Ramazan Temirov (#10) @125\n• Nikita Kry
- lov (#15) vs. Abdul Rakhman Yakhyaev @205\n• Alexander Volkov (#2) vs. R
- izvan Kuniev (#7) @265\n• Abus Magomedov (#14) vs. Cam Rowston @185\n•
-  Grant Dawson vs. Nurullo Aliev @155\n\nhttps://www.ufc.com/event/ufc-333
- \n\nAccurate as of Sep 5\, 4:01 AM EDT
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — UFC 330: Makhachev vs Machado Garry
@@ -57,7 +57,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nIslam Makhachev\n\nOrganisation : UFC\n
   Prelims (3.5 hrs before Main)\n--------------------\n• Rafael Tobias vs
  . Lucas Fernando @205\n• Neil Magny vs. Ramiz Brahimaj @170\n• Jeremia
  h Wells vs. Myktybek Orolbai @170\n\nhttps://www.ufc.com/event/ufc-330\n\n
- Accurate as of Sep 5\, 4:01 AM EDT
+ Accurate as of Sep 6\, 4:20 AM EDT
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
 END:VEVENT
 BEGIN:VEVENT
@@ -76,7 +76,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nMagomed Ankalaev\n\nOrganisation : UFC\n
  y vs. Muhammad Saidov @205\n• Santiago Ponzinibbio vs. Sam Patterson @17
  0\n• Magomed Tuchalov vs. Brendson Ribeiro @205\n• Nurullo Aliev vs. M
  ike Davis @155\n• Cody Gibson vs. Abdul Hussein @135\n\nhttps://www.ufc.
- com/event/ufc-fight-night-july-25-2026\n\nAccurate as of Sep 5\, 4:01 AM E
+ com/event/ufc-fight-night-july-25-2026\n\nAccurate as of Sep 6\, 4:20 AM E
  DT
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 END:VEVENT
@@ -97,7 +97,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nBenoit Saint Denis\n\nOrganisation : UFC
  Cortez (#8) vs. Wang Cong (#12) @125\n• Damian Pinas vs. Cesar Almeida @
  185\n• Farid Basharat (#15) vs. John Garza @135\n• Ryan Gandra vs. Zac
  hary Reese @185\n• Alessandro Costa vs. Cody Durden @125\n\nhttps://www.
- ufc.com/event/ufc-329\n\nAccurate as of Sep 5\, 4:01 AM EDT
+ ufc.com/event/ufc-329\n\nAccurate as of Sep 6\, 4:20 AM EDT
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 END:VEVENT
 BEGIN:VEVENT
@@ -111,38 +111,8 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nIlia Topuria\n\nOrganisation : UFC\n\nMa
  s. Aiemann Zahabi (#6) @135\n• Josh Hokit (#5) vs. Derrick Lewis (#9) @2
  65\n• Mauricio Ruffy (#9) vs. Michael Chandler (#13) @155\n• Bo Nickal
   vs. Kyle Daukaus @185\n• Diego Lopes (#2) vs. Steve Garcia (#9) @145\n
- \nhttps://www.ufc.com/event/ufc-freedom-250\n\nAccurate as of Sep 5\, 4:01
+ \nhttps://www.ufc.com/event/ufc-freedom-250\n\nAccurate as of Sep 6\, 4:20
   AM EDT
 LOCATION:The White House\, Washington\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 328: Chimaev vs Strickland
-DTSTART:20260510T010000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-328
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nKhamzat Chimaev\n\nOrganisation : UFC\n
- \nMain Card\n--------------------\n• Khamzat Chimaev (C) vs. Sean Strick
- land (#3) @185\n• Joshua Van (C) vs. Tatsuro Taira (#3) @125\n• Alexan
- der Volkov (#2) vs. Waldo Cortes Acosta (#4) @265\n• Sean Brady (#6) vs.
-  Joaquin Buckley (#9) @170\n• King Green vs. Jeremy Stephens @155\n\nPre
- lims (2 hrs before Main)\n--------------------\n• Ateba Gautier vs. Ozzy
-  Diaz @185\n• Joel Álvarez vs. Yaroslav Amosov (#14) @170\n• Grant Da
- wson vs. Mateusz Rębecki @155\n• Jim Miller vs. Jared Gordon @155\n\nEa
- rly Prelims (4 hrs before Main)\n--------------------\n• Roman Kopylov v
- s. Marco Tulio @185\n• Pat Sabatini vs. William Gomis @145\n• Baisangu
- r Susurkaev vs. Djorden Santos @185\n• Clayton Carpenter vs. Jose Ochoa 
- @125\n\nhttps://www.ufc.com/event/ufc-328\n\nAccurate as of Sep 5\, 4:01 A
- M EDT
-LOCATION:Prudential Center\, Newark\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — Salahdine Parnasse
-DTSTART:20260905T190000Z
-UID:mma-calendar-https-next-fight-com-en-event-ufc-fight-night-sept-5
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : UFC
- \n\nÉvénement : UFC PARIS 2026 — Full Fight Card\, Date & Time\n\nCale
- ndrier :\nhttps://next-fight.com/en/event/ufc-fight-night-sept-5
-URL:https://next-fight.com/en/event/ufc-fight-night-sept-5
 END:VEVENT
 END:VCALENDAR

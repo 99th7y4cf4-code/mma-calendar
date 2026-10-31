@@ -5,6 +5,38 @@ X-WR-CALDESC:Combats et compétitions de mes sportifs préférés
 X-WR-CALNAME:Mes Combats MMA & Judo
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🥊 UFC — UFC 334: Gane vs Hokit
+DTSTART:20261115T020000Z
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-334
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nCiryl Gane\n\nOrganisation : UFC\n\nMain
+  Card\n--------------------\n• Ciryl Gane (C) vs. Josh Hokit (#4) @265\n
+ • Kayla Harrison (C) vs. Amanda Nunes @135\n• Caio Borralho (#5) vs. Y
+ ousri Belgaroui @185\n• Uroš Medić (#12) vs. Kevin Holland (#15) @170
+ \n• Bilal Hasan vs. Luis Gurule @125\n\nPrelims (2 hrs before Main)\n---
+ -----------------\n• Stephen Thompson vs. Charles Radtke @170\n• Drew 
+ Dober vs. Chris Duncan @155\n• Jim Miller vs. Terrance McKinney @155\n
+ • Donte Johnson vs. Cesar Almeida @185\n\nEarly Prelims (4 hrs before Ma
+ in)\n--------------------\n• Macy Chiasson (#9) vs. Bia Mesquita (#11) @
+ 135\n• Adrian Yanez vs. Juan Diaz @135\n• Nazim Sadykhov vs. Jefferson
+  Nascimento @155\n\nhttps://www.ufc.com/event/ufc-334\n\nAccurate as of Oc
+ t 31\, 6:17 AM EDT
+LOCATION:Madison Square Garden\, New York\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — UFC 335: Oliveira vs Lopes
+DTSTART:20261213T020000Z
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-335
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nAlex Pereira\n\nOrganisation : UFC\n\n
+ • Charles Oliveira (#3) vs. Diego Lopes @155\n• Sergei Pavlovich (#3) 
+ vs. Alex Pereira @265\n• Brandon Moreno (#8) vs. Charles Johnson @125\n
+ • Quentin Pasley vs. Junior Tafa @205\n• Joe Pyfer (#6) vs. Bo Nickal 
+ (#14) @185\n\nhttps://www.ufc.com/event/ufc-335\n\nAccurate as of Oct 31\,
+  6:17 AM EDT
+LOCATION:T-Mobile Arena\, Las Vegas\, United States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🥊 UFC — UFC 333: Volkanovski vs Evloev
 DTSTART:20261024T180000Z
 UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-333
@@ -22,40 +54,8 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : UFC
  • Abubakar Vagaev vs. Jacob Malkoun @185\n• Bolaji Oki vs. Daniel Sant
  os @145\n• Kody Steele vs. Noah Gugnon @155\n• Iasmin Lucindo vs. Nico
  lle Caliari @115\n\nhttps://www.ufc.com/event/ufc-333\n\nAccurate as of Oc
- t 24\, 6:13 PM EDT
+ t 31\, 6:17 AM EDT
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 334: Gane vs Hokit
-DTSTART:20261115T020000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-334
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nCiryl Gane\n\nOrganisation : UFC\n\nMain
-  Card\n--------------------\n• Ciryl Gane (C) vs. Josh Hokit (#4) @265\n
- • Kayla Harrison (C) vs. Amanda Nunes @135\n• Caio Borralho (#5) vs. Y
- ousri Belgaroui @185\n• Uroš Medić (#12) vs. Kevin Holland @170\n• B
- ilal Hasan vs. Luis Gurule @125\n\nPrelims (2 hrs before Main)\n----------
- ----------\n• Stephen Thompson vs. Charles Radtke @170\n• Drew Dober v
- s. Chris Duncan @155\n• Jim Miller vs. Terrance McKinney @155\n• Donte
-  Johnson vs. Baisangur Susurkaev @185\n\nEarly Prelims (4 hrs before Main)
- \n--------------------\n• Macy Chiasson (#9) vs. Bia Mesquita (#11) @135
- \n• Adrian Yanez vs. Juan Diaz @135\n• Nazim Sadykhov vs. Jefferson Na
- scimento @155\n\nhttps://www.ufc.com/event/ufc-334\n\nAccurate as of Oct 2
- 4\, 6:13 PM EDT
-LOCATION:Madison Square Garden\, New York\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 335: Oliveira vs Lopes
-DTSTART:20261213T020000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-335
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nAlex Pereira\n\nOrganisation : UFC\n\n
- • Charles Oliveira (#3) vs. Diego Lopes @155\n• Sergei Pavlovich (#3) 
- vs. Alex Pereira @265\n• Brandon Moreno (#8) vs. Charles Johnson @125\n
- • Quentin Pasley vs. Junior Tafa @205\n• Joe Pyfer (#6) vs. Bo Nickal 
- (#14) @185\n\nhttps://www.ufc.com/event/ufc-335\n\nAccurate as of Oct 24\,
-  6:13 PM EDT
-LOCATION:T-Mobile Arena\, Las Vegas\, United States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — UFC Fight Night: Hooker vs Parnasse
@@ -74,8 +74,8 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : UFC
  Andrusca @145\n• Michael Aljarouj vs. Fabia Sintes @125\n• Nora Cornol
  le (#13) vs. Klaudia Syguła @135\n• Matthieu Duclos vs. Luis Felipe Dia
  s @185\n• Delphine Benouaich vs. Sofia Montenegro @115\n\nhttps://www.uf
- c.com/event/ufc-fight-night-september-05-2026\n\nAccurate as of Oct 24\, 6
- :13 PM EDT
+ c.com/event/ufc-fight-night-september-05-2026\n\nAccurate as of Oct 31\, 6
+ :17 AM EDT
 LOCATION:Accor Arena\, Paris\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -94,7 +94,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nIslam Makhachev\n\nOrganisation : UFC\n
   Prelims (3.5 hrs before Main)\n--------------------\n• Rafael Tobias vs
  . Lucas Fernando @205\n• Neil Magny vs. Ramiz Brahimaj @170\n• Jeremia
  h Wells vs. Myktybek Orolbai @170\n\nhttps://www.ufc.com/event/ufc-330\n\n
- Accurate as of Oct 24\, 6:13 PM EDT
+ Accurate as of Oct 31\, 6:17 AM EDT
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
 END:VEVENT
 BEGIN:VEVENT
@@ -113,39 +113,9 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nMagomed Ankalaev\n\nOrganisation : UFC\n
  y vs. Muhammad Saidov @205\n• Santiago Ponzinibbio vs. Sam Patterson @17
  0\n• Magomed Tuchalov vs. Brendson Ribeiro @205\n• Nurullo Aliev vs. M
  ike Davis @155\n• Cody Gibson vs. Abdul Hussein @135\n\nhttps://www.ufc.
- com/event/ufc-fight-night-july-25-2026\n\nAccurate as of Oct 24\, 6:13 PM 
+ com/event/ufc-fight-night-july-25-2026\n\nAccurate as of Oct 31\, 6:17 AM 
  EDT
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 329: McGregor vs Holloway 2
-DTSTART:20260712T010000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-329
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nBenoit Saint Denis\n\nOrganisation : UFC
- \n\nMain Card\n--------------------\n• Conor McGregor vs. Max Holloway @
- 170\n• Benoît Saint Denis (#5) vs. Paddy Pimblett (#6) @155\n• Cory S
- andhagen (#4) vs. Mario Bautista (#7) @135\n• Brandon Royval (#4) vs. Lo
- ne’er Kavanagh (#6) @125\n• King Green vs. Terrance McKinney @155\n\nP
- relims (2 hrs before Main)\n--------------------\n• Nikita Krylov (#12) 
- vs. Robert Whittaker @205\n• Gable Steveson vs. Elisha Ellison @265\n•
-  Cody Garbrandt vs. Adrian Yanez @135\n• Luke Riley vs. Kai Kamaka III @
- 145\n\nEarly Prelims (4 hrs before Main)\n--------------------\n• Tracy 
- Cortez (#8) vs. Wang Cong (#12) @125\n• Damian Pinas vs. Cesar Almeida @
- 185\n• Farid Basharat (#15) vs. John Garza @135\n• Ryan Gandra vs. Zac
- hary Reese @185\n• Alessandro Costa vs. Cody Durden @125\n\nhttps://www.
- ufc.com/event/ufc-329\n\nAccurate as of Oct 24\, 6:13 PM EDT
-LOCATION:T-Mobile Arena\, Las Vegas\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥋 Judo — Joan-Benjamin Gaba
-DTSTART;VALUE=DATE:20261113
-UID:judo-calendar-joan benjamin gaba-2026-11-13-Zagreb-Grand-Prix-2026-
-CATEGORIES:Judo\,IJF
-DESCRIPTION:⭐ JUDOKA SUIVI\nJoan-Benjamin Gaba\n\nCompétition :\nZagreb
-  Grand Prix 2026 -\n\nSource officielle IJF :\nhttps://www.ijf.org/athlete
- /46709/results?results_rank_group=all
-URL:https://www.ijf.org/athlete/46709/results?results_rank_group=all
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥋 Judo — Joan-Benjamin Gaba

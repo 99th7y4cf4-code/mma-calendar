@@ -5,6 +5,33 @@ X-WR-CALDESC:Combats et compétitions de mes sportifs préférés
 X-WR-CALNAME:Mes Combats MMA & Judo
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🥊 UFC — UFC 335: Oliveira vs Lopes
+DTSTART:20261213T020000Z
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-335
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nAlex Pereira\n\nOrganisation : UFC\n\n
+ • Charles Oliveira (#3) vs. Diego Lopes @155\n• Alex Pereira vs. Serge
+ i Pavlovich (#3) @265\n• Brandon Moreno (#8) vs. Charles Johnson (#14) @
+ 125\n• Kyler Phillips vs. Ethyn Ewing @135\n• Quentin Pasley vs. Junio
+ r Tafa @205\n• Damian Pinas vs. Baisangur Susurkaev @185\n\nhttps://www.
+ ufc.com/event/ufc-335\n\nAccurate as of Nov 17\, 7:45 AM EST
+LOCATION:T-Mobile Arena\, Las Vegas\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — UFC Fight Night: Salkilld vs Saint Denis
+DTSTART:20270206T220000Z
+UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-fight-night-february-06
+ -2027
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nBenoit Saint Denis\n\nOrganisation : UFC
+ \n\n• Quillan Salkilld (#7) vs. Benoît Saint Denis (#6) @155\n• Bogda
+ n Guskov (#8) vs. Robert Whittaker (#10) @205\n• Marwan Rahiki vs. JooSa
+ ng Yoo @145\n• Kaan Ofli vs. Joanderson Brito @145\n\nhttps://www.ufc.co
+ m/event/ufc-fight-night-february-06-2027\n\nAccurate as of Nov 17\, 7:45 A
+ M EST
+LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🥊 UFC — UFC 334: Gane vs Hokit
 DTSTART:20261115T020000Z
 UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-334
@@ -20,35 +47,8 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nCiryl Gane\n\nOrganisation : UFC\n\nMain
  n)\n--------------------\n• Jared Gordon vs. Melquizael Costa @155\n• 
  Macy Chiasson (#10) vs. Bia Mesquita (#11) @135\n• Alatengheili vs. Juan
   Diaz @135\n• Evan Elder vs. Samuel Sanches @155\n\nhttps://www.ufc.com/
- event/ufc-334\n\nAccurate as of Nov 14\, 6:36 PM EST
+ event/ufc-334\n\nAccurate as of Nov 17\, 7:45 AM EST
 LOCATION:Madison Square Garden\, New York\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC 335: Oliveira vs Lopes
-DTSTART:20261213T020000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-335
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nAlex Pereira\n\nOrganisation : UFC\n\n
- • Charles Oliveira (#3) vs. Diego Lopes @155\n• Alex Pereira vs. Serge
- i Pavlovich (#3) @265\n• Brandon Moreno (#8) vs. Charles Johnson (#14) @
- 125\n• Quentin Pasley vs. Junior Tafa @205\n• Joe Pyfer (#6) vs. Bo Ni
- ckal (#14) @185\n\nhttps://www.ufc.com/event/ufc-335\n\nAccurate as of Nov
-  14\, 6:36 PM EST
-LOCATION:T-Mobile Arena\, Las Vegas\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — UFC Fight Night: Salkilld vs Saint Denis
-DTSTART:20270206T220000Z
-UID:mma-calendar-ufc-https://www.ufc.com/event/ufc-fight-night-february-06
- -2027
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nBenoit Saint Denis\n\nOrganisation : UFC
- \n\n• Quillan Salkilld (#7) vs. Benoît Saint Denis (#6) @155\n• Bogda
- n Guskov (#8) vs. Robert Whittaker (#11) @205\n• Marwan Rahiki vs. JooSa
- ng Yoo @145\n• Kaan Ofli vs. Joanderson Brito @145\n\nhttps://www.ufc.co
- m/event/ufc-fight-night-february-06-2027\n\nAccurate as of Nov 14\, 6:36 P
- M EST
-LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — UFC 333: Volkanovski vs Evloev
@@ -68,7 +68,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : UFC
  • Abubakar Vagaev vs. Jacob Malkoun @185\n• Bolaji Oki vs. Daniel Sant
  os @145\n• Kody Steele vs. Noah Gugnon @155\n• Iasmin Lucindo vs. Nico
  lle Caliari @115\n\nhttps://www.ufc.com/event/ufc-333\n\nAccurate as of No
- v 14\, 6:36 PM EST
+ v 17\, 7:45 AM EST
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 END:VEVENT
 BEGIN:VEVENT
@@ -88,8 +88,8 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : UFC
  Andrusca @145\n• Michael Aljarouj vs. Fabia Sintes @125\n• Nora Cornol
  le (#13) vs. Klaudia Syguła @135\n• Matthieu Duclos vs. Luis Felipe Dia
  s @185\n• Delphine Benouaich vs. Sofia Montenegro @115\n\nhttps://www.uf
- c.com/event/ufc-fight-night-september-05-2026\n\nAccurate as of Nov 14\, 6
- :36 PM EST
+ c.com/event/ufc-fight-night-september-05-2026\n\nAccurate as of Nov 17\, 7
+ :45 AM EST
 LOCATION:Accor Arena\, Paris\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -108,7 +108,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nIslam Makhachev\n\nOrganisation : UFC\n
   Prelims (3.5 hrs before Main)\n--------------------\n• Rafael Tobias vs
  . Lucas Fernando @205\n• Neil Magny vs. Ramiz Brahimaj @170\n• Jeremia
  h Wells vs. Myktybek Orolbai @170\n\nhttps://www.ufc.com/event/ufc-330\n\n
- Accurate as of Nov 14\, 6:36 PM EST
+ Accurate as of Nov 17\, 7:45 AM EST
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
 END:VEVENT
 BEGIN:VEVENT
@@ -122,5 +122,167 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
  & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/one-championship-o
  ne-samurai-5
 URL:https://next-fight.com/en/event/one-championship-one-samurai-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261121T220000Z
+UID:mma-calendar-https-next-fight-com-en-event-all-or-nothing-fights-17-an
+ f-17
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : All or Nothing Fights 17 - ANF 17 — Full Fight Card\, Date
+  & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/all-or-nothing-fi
+ ghts-17-anf-17
+URL:https://next-fight.com/en/event/all-or-nothing-fights-17-anf-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261122T020000Z
+UID:mma-calendar-https-next-fight-com-en-event-fw-fightworld-47
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : FW - FightWorld 47 — Full Fight Card\, Date & Time\n\nCale
+ ndrier :\nhttps://next-fight.com/en/event/fw-fightworld-47
+URL:https://next-fight.com/en/event/fw-fightworld-47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261127T200000Z
+UID:mma-calendar-https-next-fight-com-en-event-hxmma-49-hexagone-mma-49
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : HXMMA 49 - Hexagone MMA 49 — Full Fight Card\, Date & Time
+ \n\nCalendrier :\nhttps://next-fight.com/en/event/hxmma-49-hexagone-mma-49
+URL:https://next-fight.com/en/event/hxmma-49-hexagone-mma-49
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261204T000000
+UID:mma-calendar-https-next-fight-com-en-event-tuff-n-uff-tuff-n-uff-159
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : Tuff-N-Uff - Tuff-N-Uff 159 — Full Fight Card\, Date & Tim
+ e\n\nCalendrier :\nhttps://next-fight.com/en/event/tuff-n-uff-tuff-n-uff-1
+ 59
+URL:https://next-fight.com/en/event/tuff-n-uff-tuff-n-uff-159
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Alex Pereira
+DTSTART:20261213T020000Z
+UID:mma-calendar-https-next-fight-com-en-event-ufc-335
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nAlex Pereira\n\nOrganisation : UFC\n\nÉ
+ vénement : UFC 335: Oliveira vs. Lopes — Full Fight Card\, Date & Time
+ \n\nCalendrier :\nhttps://next-fight.com/en/event/ufc-335
+URL:https://next-fight.com/en/event/ufc-335
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Benoit Saint Denis
+DTSTART:20270207T000000
+UID:mma-calendar-https-next-fight-com-en-event-ufc-fight-night-sydney-2027
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nBenoit Saint Denis\n\nOrganisation : UFC
+ \n\nÉvénement : UFC Fight Night: Salkilld vs. Saint Denis — Full Fight
+  Card\, Date & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/ufc-f
+ ight-night-sydney-2027
+URL:https://next-fight.com/en/event/ufc-fight-night-sydney-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20270220T000000
+UID:mma-calendar-https-next-fight-com-en-event-ufc-337-feb-20
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : UFC 337 — Full Fight Card\, Date & Time\n\nCalendrier :\nh
+ ttps://next-fight.com/en/event/ufc-337-feb-20
+URL:https://next-fight.com/en/event/ufc-337-feb-20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20270220T000000
+UID:mma-calendar-https-next-fight-com-en-event-eternal-mma-116-perth
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : Eternal MMA 116 - Perth — Full Fight Card\, Date & Time\n
+ \nCalendrier :\nhttps://next-fight.com/en/event/eternal-mma-116-perth
+URL:https://next-fight.com/en/event/eternal-mma-116-perth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261128T180000Z
+UID:mma-calendar-https-next-fight-com-en-event-fen-64-kruk-vs-milek
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : FEN 64 - Kruk vs. Milek — Full Fight Card\, Date & Time\n
+ \nCalendrier :\nhttps://next-fight.com/en/event/fen-64-kruk-vs-milek
+URL:https://next-fight.com/en/event/fen-64-kruk-vs-milek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261205T000000
+UID:mma-calendar-https-next-fight-com-en-event-combat-night-gainesville
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : Combat Night - Gainesville — Full Fight Card\, Date & Time
+ \n\nCalendrier :\nhttps://next-fight.com/en/event/combat-night-gainesville
+URL:https://next-fight.com/en/event/combat-night-gainesville
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261205T000000
+UID:mma-calendar-https-next-fight-com-en-event-flex-fight-series-65-cold-b
+ looded
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : Flex Fight Series 65 - Cold Blooded — Full Fight Card\, Da
+ te & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/flex-fight-seri
+ es-65-cold-blooded
+URL:https://next-fight.com/en/event/flex-fight-series-65-cold-blooded
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261206T000000
+UID:mma-calendar-https-next-fight-com-en-event-559-fights-130-559-fights
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : 559 Fights 130 - 559 Fights — Full Fight Card\, Date & Tim
+ e\n\nCalendrier :\nhttps://next-fight.com/en/event/559-fights-130-559-figh
+ ts
+URL:https://next-fight.com/en/event/559-fights-130-559-fights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261218T000000
+UID:mma-calendar-https-next-fight-com-en-event-private-fights-14-vs
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : Private Fights 14 - TBA vs. TBA — Full Fight Card\, Date &
+  Time\n\nCalendrier :\nhttps://next-fight.com/en/event/private-fights-14-v
+ s
+URL:https://next-fight.com/en/event/private-fights-14-vs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261219T000000
+UID:mma-calendar-https-next-fight-com-en-event-home-fight-championship-hfc
+ -22-115364
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : Home Fight Championship - HFC 22 — Full Fight Card\, Date 
+ & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/home-fight-champio
+ nship-hfc-22-115364
+URL:https://next-fight.com/en/event/home-fight-championship-hfc-22-115364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261226T170000Z
+UID:mma-calendar-https-next-fight-com-en-event-deep-osaka-impact-2026-7th-
+ round
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : Deep - Osaka Impact 2026 7th Round — Full Fight Card\, Dat
+ e & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/deep-osaka-impac
+ t-2026-7th-round
+URL:https://next-fight.com/en/event/deep-osaka-impact-2026-7th-round
 END:VEVENT
 END:VCALENDAR

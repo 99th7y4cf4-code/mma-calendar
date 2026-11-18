@@ -113,37 +113,23 @@ LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20261118T083000Z
-UID:mma-calendar-https-next-fight-com-en-event-one-championship-one-samura
- i-5
+DTSTART:20261122T070000Z
+UID:mma-calendar-https-next-fight-com-en-event-deep-134-impact
 CATEGORIES:MMA\,UFC
 DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : One Championship - ONE Samurai 5 — Full Fight Card\, Date 
- & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/one-championship-o
- ne-samurai-5
-URL:https://next-fight.com/en/event/one-championship-one-samurai-5
+ Événement : Deep - 134 Impact — Full Fight Card\, Date & Time\n\nCalen
+ drier :\nhttps://next-fight.com/en/event/deep-134-impact
+URL:https://next-fight.com/en/event/deep-134-impact
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20261121T220000Z
-UID:mma-calendar-https-next-fight-com-en-event-all-or-nothing-fights-17-an
- f-17
+DTSTART:20261122T150000Z
+UID:mma-calendar-https-next-fight-com-en-event-afl-45-barcelona
 CATEGORIES:MMA\,UFC
 DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : All or Nothing Fights 17 - ANF 17 — Full Fight Card\, Date
-  & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/all-or-nothing-fi
- ghts-17-anf-17
-URL:https://next-fight.com/en/event/all-or-nothing-fights-17-anf-17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20261122T020000Z
-UID:mma-calendar-https-next-fight-com-en-event-fw-fightworld-47
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : FW - FightWorld 47 — Full Fight Card\, Date & Time\n\nCale
- ndrier :\nhttps://next-fight.com/en/event/fw-fightworld-47
-URL:https://next-fight.com/en/event/fw-fightworld-47
+ Événement : AFL 45 - Barcelona — Full Fight Card\, Date & Time\n\nCale
+ ndrier :\nhttps://next-fight.com/en/event/afl-45-barcelona
+URL:https://next-fight.com/en/event/afl-45-barcelona
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
@@ -209,6 +195,16 @@ URL:https://next-fight.com/en/event/eternal-mma-116-perth
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261122T020000Z
+UID:mma-calendar-https-next-fight-com-en-event-fw-fightworld-47
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : FW - FightWorld 47 — Full Fight Card\, Date & Time\n\nCale
+ ndrier :\nhttps://next-fight.com/en/event/fw-fightworld-47
+URL:https://next-fight.com/en/event/fw-fightworld-47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
 DTSTART:20261128T180000Z
 UID:mma-calendar-https-next-fight-com-en-event-fen-64-kruk-vs-milek
 CATEGORIES:MMA\,UFC
@@ -238,6 +234,16 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
  te & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/flex-fight-seri
  es-65-cold-blooded
 URL:https://next-fight.com/en/event/flex-fight-series-65-cold-blooded
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261206T000000
+UID:mma-calendar-https-next-fight-com-en-event-shooto-torao-41
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : Shooto - Torao 41 — Full Fight Card\, Date & Time\n\nCalen
+ drier :\nhttps://next-fight.com/en/event/shooto-torao-41
+URL:https://next-fight.com/en/event/shooto-torao-41
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
@@ -275,14 +281,14 @@ URL:https://next-fight.com/en/event/home-fight-championship-hfc-22-115364
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20261226T170000Z
-UID:mma-calendar-https-next-fight-com-en-event-deep-osaka-impact-2026-7th-
- round
+DTSTART:20270206T000000
+UID:mma-calendar-https-next-fight-com-en-event-jfl-59-jasaji-fighting-leag
+ ue-59
 CATEGORIES:MMA\,UFC
 DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : Deep - Osaka Impact 2026 7th Round — Full Fight Card\, Dat
- e & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/deep-osaka-impac
- t-2026-7th-round
-URL:https://next-fight.com/en/event/deep-osaka-impact-2026-7th-round
+ Événement : JFL 59 - Jasaji Fighting League 59 — Full Fight Card\, Dat
+ e & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/jfl-59-jasaji-fi
+ ghting-league-59
+URL:https://next-fight.com/en/event/jfl-59-jasaji-fighting-league-59
 END:VEVENT
 END:VCALENDAR

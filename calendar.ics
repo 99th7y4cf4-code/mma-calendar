@@ -17,7 +17,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nAlex Pereira\n\nOrganisation : UFC\n\nMa
  efore Main)\n--------------------\n• Jacqueline Cavalcanti (#9) vs. Mich
  elle Montague (#11) @135\n• Quentin Pasley vs. Junior Tafa @205\n• Roq
  ue Conceicao vs. Nilson Rojas @125\n\nhttps://www.ufc.com/event/ufc-335\n
- \nAccurate as of Nov 26\, 2:45 AM EST
+ \nAccurate as of Nov 27\, 8:27 AM EST
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 END:VEVENT
 BEGIN:VEVENT
@@ -31,7 +31,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nBenoit Saint Denis\n\nOrganisation : UFC
  n Guskov (#8) vs. Robert Whittaker (#10) @205\n• Jonathan Micallef vs. S
  am Patterson @170\n• Marwan Rahiki vs. JooSang Yoo @145\n• Kaan Ofli v
  s. Joanderson Brito @145\n\nhttps://www.ufc.com/event/ufc-fight-night-febr
- uary-06-2027\n\nAccurate as of Nov 26\, 2:45 AM EST
+ uary-06-2027\n\nAccurate as of Nov 27\, 8:27 AM EST
 LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 END:VEVENT
 BEGIN:VEVENT
@@ -50,7 +50,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nCiryl Gane\n\nOrganisation : UFC\n\nMain
  n)\n--------------------\n• Jared Gordon vs. Melquizael Costa @155\n• 
  Macy Chiasson (#10) vs. Bia Mesquita (#11) @135\n• Alatengheili vs. Juan
   Diaz @135\n• Evan Elder vs. Samuel Sanches @155\n\nhttps://www.ufc.com/
- event/ufc-334\n\nAccurate as of Nov 26\, 2:45 AM EST
+ event/ufc-334\n\nAccurate as of Nov 27\, 8:27 AM EST
 LOCATION:Madison Square Garden\, New York\, United States
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +71,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nMerab Dvalishvili\n\nOrganisation : UFC
  • Abubakar Vagaev vs. Jacob Malkoun @185\n• Bolaji Oki vs. Daniel Sant
  os @145\n• Kody Steele vs. Noah Gugnon @155\n• Iasmin Lucindo vs. Nico
  lle Caliari @115\n\nhttps://www.ufc.com/event/ufc-333\n\nAccurate as of No
- v 26\, 2:45 AM EST
+ v 27\, 8:27 AM EST
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 END:VEVENT
 BEGIN:VEVENT
@@ -91,8 +91,8 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : UFC
  Andrusca @145\n• Michael Aljarouj vs. Fabia Sintes @125\n• Nora Cornol
  le (#13) vs. Klaudia Syguła @135\n• Matthieu Duclos vs. Luis Felipe Dia
  s @185\n• Delphine Benouaich vs. Sofia Montenegro @115\n\nhttps://www.uf
- c.com/event/ufc-fight-night-september-05-2026\n\nAccurate as of Nov 26\, 2
- :45 AM EST
+ c.com/event/ufc-fight-night-september-05-2026\n\nAccurate as of Nov 27\, 8
+ :27 AM EST
 LOCATION:Accor Arena\, Paris\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nIslam Makhachev\n\nOrganisation : UFC\n
   Prelims (3.5 hrs before Main)\n--------------------\n• Rafael Tobias vs
  . Lucas Fernando @205\n• Neil Magny vs. Ramiz Brahimaj @170\n• Jeremia
  h Wells vs. Myktybek Orolbai @170\n\nhttps://www.ufc.com/event/ufc-330\n\n
- Accurate as of Nov 26\, 2:45 AM EST
+ Accurate as of Nov 27\, 8:27 AM EST
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
 END:VEVENT
 BEGIN:VEVENT
@@ -135,29 +135,6 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
 URL:https://next-fight.com/en/event/fen-64-kruk-vs-milek
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20261129T000000
-UID:mma-calendar-https-next-fight-com-en-event-gods-of-martial-arts-warrio
- r-05
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : Gods of Martial Arts - Warrior 05 — Full Fight Card\, Date
-  & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/gods-of-martial-a
- rts-warrior-05
-URL:https://next-fight.com/en/event/gods-of-martial-arts-warrior-05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20261205T011500Z
-UID:mma-calendar-https-next-fight-com-en-event-tuff-n-uff-tuff-n-uff-159
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : Tuff-N-Uff - Tuff-N-Uff 159 — Full Fight Card\, Date & Tim
- e\n\nCalendrier :\nhttps://next-fight.com/en/event/tuff-n-uff-tuff-n-uff-1
- 59
-URL:https://next-fight.com/en/event/tuff-n-uff-tuff-n-uff-159
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🥊 UFC — Alex Pereira
 DTSTART:20261213T020000Z
 UID:mma-calendar-https-next-fight-com-en-event-ufc-335
@@ -179,6 +156,17 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nEnkh-Orgil Baatarkhuu\n\nOrganisation :
 URL:https://next-fight.com/en/event/one-championship-one-124
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20270123T000000
+UID:mma-calendar-https-next-fight-com-en-event-ksw-125-lesko-vs-rozanski
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : KSW 125 - Lesko vs. Rożanski — Full Fight Card\, Date & T
+ ime\n\nCalendrier :\nhttps://next-fight.com/en/event/ksw-125-lesko-vs-roza
+ nski
+URL:https://next-fight.com/en/event/ksw-125-lesko-vs-rozanski
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🥊 UFC — Salahdine Parnasse
 DTSTART:20270207T000000
 UID:mma-calendar-https-next-fight-com-en-event-ufc-fight-night-sydney-2027
@@ -188,16 +176,6 @@ DESCRIPTION:⭐ COMBATTANT SUIVI\nSalahdine Parnasse\n\nOrganisation : UFC
   Card\, Date & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/ufc-f
  ight-night-sydney-2027
 URL:https://next-fight.com/en/event/ufc-fight-night-sydney-2027
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20270220T000000
-UID:mma-calendar-https-next-fight-com-en-event-ufc-337-feb-20
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : UFC 337 — Full Fight Card\, Date & Time\n\nCalendrier :\nh
- ttps://next-fight.com/en/event/ufc-337-feb-20
-URL:https://next-fight.com/en/event/ufc-337-feb-20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
@@ -221,18 +199,6 @@ URL:https://next-fight.com/en/event/legacy-20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20261205T230000Z
-UID:mma-calendar-https-next-fight-com-en-event-flex-fight-series-65-cold-b
- looded
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : Flex Fight Series 65 - Cold Blooded — Full Fight Card\, Da
- te & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/flex-fight-seri
- es-65-cold-blooded
-URL:https://next-fight.com/en/event/flex-fight-series-65-cold-blooded
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — Justin Gaethje
 DTSTART:20261206T010000Z
 UID:mma-calendar-https-next-fight-com-en-event-combat-night-gainesville
 CATEGORIES:MMA\,UFC
@@ -253,17 +219,6 @@ URL:https://next-fight.com/en/event/shooto-torao-41
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20261207T020000Z
-UID:mma-calendar-https-next-fight-com-en-event-559-fights-130-559-fights
-CATEGORIES:MMA\,UFC
-DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : 559 Fights 130 - 559 Fights — Full Fight Card\, Date & Tim
- e\n\nCalendrier :\nhttps://next-fight.com/en/event/559-fights-130-559-figh
- ts
-URL:https://next-fight.com/en/event/559-fights-130-559-fights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🥊 UFC — Justin Gaethje
 DTSTART:20261218T000000
 UID:mma-calendar-https-next-fight-com-en-event-private-fights-14-vs
 CATEGORIES:MMA\,UFC
@@ -275,15 +230,27 @@ URL:https://next-fight.com/en/event/private-fights-14-vs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
-DTSTART:20270206T000000
-UID:mma-calendar-https-next-fight-com-en-event-jfl-59-jasaji-fighting-leag
- ue-59
+DTSTART:20261219T000000
+UID:mma-calendar-https-next-fight-com-en-event-home-fight-championship-hfc
+ -22-115364
 CATEGORIES:MMA\,UFC
 DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
- Événement : JFL 59 - Jasaji Fighting League 59 — Full Fight Card\, Dat
- e & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/jfl-59-jasaji-fi
- ghting-league-59
-URL:https://next-fight.com/en/event/jfl-59-jasaji-fighting-league-59
+ Événement : Home Fight Championship - HFC 22 — Full Fight Card\, Date 
+ & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/home-fight-champio
+ nship-hfc-22-115364
+URL:https://next-fight.com/en/event/home-fight-championship-hfc-22-115364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥊 UFC — Justin Gaethje
+DTSTART:20261226T170000Z
+UID:mma-calendar-https-next-fight-com-en-event-deep-osaka-impact-2026-7th-
+ round
+CATEGORIES:MMA\,UFC
+DESCRIPTION:⭐ COMBATTANT SUIVI\nJustin Gaethje\n\nOrganisation : UFC\n\n
+ Événement : Deep - Osaka Impact 2026 7th Round — Full Fight Card\, Dat
+ e & Time\n\nCalendrier :\nhttps://next-fight.com/en/event/deep-osaka-impac
+ t-2026-7th-round
+URL:https://next-fight.com/en/event/deep-osaka-impact-2026-7th-round
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🥊 UFC — Justin Gaethje
